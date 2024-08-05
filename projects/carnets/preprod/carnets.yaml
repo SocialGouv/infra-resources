@@ -1,0 +1,5 @@
+cluster.postgresql.cnpg.io:
+  pg:
+    resources:
+      requests:
+        memory: 512Mi
